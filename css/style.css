@@ -1,0 +1,134 @@
+.brreak{
+    border-style: dotted;
+    border-top-style: dotted;
+    height: 5px;
+    border-width: 4px;
+    border-bottom-style: none;
+}
+
+.links{
+    height: 20px;
+}
+.logo{
+    margin-left: 42%;
+    height: 80px;
+    width: 80px;  
+    border-radius: 100%;  
+}
+.prof{
+    height: 55%;
+    width: 20%;
+    margin-left: 20%;
+    margin-top: 2%;
+    border-radius: 100%;
+    border: solid #282A3A;
+    border-width: 8px;
+
+}
+.profile{
+   
+    display: flex;
+    align-items: center;
+}
+  
+.text {
+    padding: 10px;
+    color: aliceblue;
+    margin-left: 30px;
+}
+.my{
+    margin-left: 35%;
+
+}
+.expert{
+    color: #D8D8D8;
+    display: inline-block;
+    margin-left: 7px;
+}
+.myy{
+    height: 35px;
+    width: 35px;
+    margin-top: 10px;
+    display: inline-block;
+}
+.final{
+    margin-left: 37%;
+}
+.cplus{
+    height: 70px;
+    width: 70px;
+}
+.java{
+    height: 70px;
+    width: 70px;
+    border-radius: 100%;
+    margin-left: 25px;
+}
+.python{
+    height: 70px;
+    width: 70px;
+    border-radius: 100%;
+    
+}
+
+.html{
+    height: 70px;
+    width: 70px;
+    border-radius: 100%;
+    margin-left: 25px;
+}
+
+
+.cs{
+    height: 70px;
+    width: 70px;
+}
+.js{
+    height: 70px;
+    width: 70px;
+    border-radius: 100%;
+    margin-left: 25px;
+}
+.njs{
+    height: 70px;
+    width: 70px;
+    border-radius: 100%;
+}
+.moongo{
+    height: 70px;
+    width: 70px;
+    border-radius: 100%;
+    margin-left: 25px;
+}
+.react{
+    height: 70px;
+    width: 70px;
+    border-radius: 100%;
+}
+.jq{
+    height: 70px;
+    width: 70px;
+    border-radius: 100%;
+    margin-left: 25px;
+}
+.sql{
+    height: 70px;
+    width: 70px;
+    border-radius: 100%;
+}
+.web3{
+    height: 70px;
+    width: 70px;
+    border-radius: 100%;
+    margin-left: 25px;
+}
+.hr2{
+    border-style: dotted;
+    border-top-style: dotted;
+    width: 50px;
+    border-width: 4px;
+    height: 4px;
+    border-bottom-style: none;
+    border-left-width: 0px;
+    border-right-width: 0px;
+}
